@@ -1,0 +1,30 @@
+CSC 385
+Progress Log
+Dhara Patel
+
+Week 2 – Choice Week (January 30th, 2021)
+
+The initial choice was to continue my focus on studying robotics and implement a project idea I had been wanting to try out. However, the project required in depth knowledge of various artificial intelligence tools such as deep learning, reinforced learning, and computer vision/image processing. After thinking through I believe computer vision will be the most appropriate topic to explore for the duration of the Spring 2021 semester. Advanced computer vision requires application of deep learning and reinforced learning can also be applied to attempt to get a step closer to achieving human vision capabilities.
+Computer vision is a subfield machine learning and artificial intelligence that focuses on attempting to replicate the human vision, enabling computer to identify and process objects and situations in image and videos. I would like to learn to implement and apply computer vision algorithms to autonomous driving, but the time restrictions only allow me to explore the very basics of computer vision of which semantic image segmentation covers a quicker and complex algorithm for recognizing and understanding what is in the image on pixel level and identify the object.
+
+Week 3 – Research Report Choice Week (February 6th, 2021)
+
+To read any articles, thesis papers, or conference papers on any topic I use ResearchGate. There are various articles and papers of different complexity to refer to. I have listed few of the articles I have read and gained an understanding from. Overall, I realized that even semantic segmentation alone is very complex to understand on theoretical level and requires in-depth understanding of mathematics and coding language of choice. Python combined with PyTorch or TensorFlow seem to be a very popular choice of language and tool to implement semantic image segmentation. I will need to do more research in the upcoming week to think through and conclude on exactly where I want to start and what I want to do.
+•	https://www.researchgate.net/publication/326012274_Recent_progress_in_semantic_image_segmentation
+•	https://www.researchgate.net/publication/342171446_Introspective_Failure_Prediction_for_Semantic_Image_Segmentation
+•	https://www.researchgate.net/publication/261204452_A_benchmark_for_semantic_image_segmentation
+•	https://www.researchgate.net/publication/314237740_Adversarial_Examples_for_Semantic_Image_Segmentation
+
+Week 5 – Specifications and Timeline (February 21st, 2021)
+
+I am currently on at the point in my research where I can identify which data structure I would like to use. I have narrowed it down to using semantic image segmentation for processing a single image instead of a full video stream. I am not sure as to what complexity level I will be able to reach in image processing by end of this project but nevertheless it a progress in the direction of having a small understanding of how computer vision works and how to go about implementing it. 
+I think the language most suited for learning image processing is python, but I am not sure as to which tool would be best suited between TensorFlow, PyTorch, and Keras. I believe by end of week 6 I will have a clear idea of the flow of my project and have my design plan “finalized” for at least the starting stage of my project. After the design plan is completed, I would be able to provide a timeline for my project. 
+
+Week 6 – Design Plan (February 27th, 2021)
+
+Week 5 continue…
+
+Week 7 – 
+Week 8 – Research Report
+Week 9 – 
+Week 10 – Prototype Week
