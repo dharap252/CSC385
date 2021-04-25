@@ -1,15 +1,16 @@
 TO DO List:
-[C] = Completed;  [I] = Incomplete;  [D] = Delayed 
+[C] = Completed;  [I] = Incomplete;  [D] = Delayed;  [NV] = Not Valid
 
 [C] Pick a topic
 [C] Finalize a research topic
 [C] Reseach the chosen topic
-[I] Finialized project specifications
+[C] Finialized project specifications
 [C] Figure out tools needed --> OpenCV, TensorFlow or Keras, 
 [C] Try out tutorils regarding image manipulation/ processing
-[I/D] Actual Implementation Begin --> April 5th
-[I/D] Prototype --> April 9th
-[I] Midway point reached --> Can retrieve segmentated - April 23rd
-[I] Checkpoint reached --> Can assign each of the objects corresponding class - April 27th
-[I] Presentation --> See if it can be done on 29th
+[I/D] Actual Implementation Begin --> [1: April 5th, delayed date: April 24th with updated view point]
+[C/D] Prototype --> April 9th
+[NV] Midway point reached --> Can retrieve segmentated - April 23rd
+[I] Checkpoint reached --> Completed implementaion till presentable - April 27th
+[I] Presentation prep --> April 28th
+[I] Presentation --> April 29th
 [I] Final Implementation Completion --> Finals week [May 5th]
