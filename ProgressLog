@@ -55,9 +55,25 @@ https://www.youtube.com/watch?v=WQK_oOWW5Zo&ab_channel=DigitalSreeni
 
 and updated using what I learned from the link listed under OPENCV in Week 9.
 ---------------------------------------------------------------------------------------------------------
-Week 11 – Implementation
+Week 11 – Watershed algorithm Research
+
+• https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_watershed/py_watershed.html
+      --> Followed provided tutorial
+• Watershed segmentation
+      --> https://scikit-image.org/docs/dev/auto_examples/segmentation/plot_watershed.html
+      
 ---------------------------------------------------------------------------------------------------------
-Week 12 – Implementation
+Week 12 – SLIC Algorithm Research
+
+• https://docs.opencv.org/3.4/df/d6c/group__ximgproc__superpixel.html
+      --> Documentation on superpixel functions
+• https://medium.com/@darshita1405/superpixels-and-slic-6b2d8a6e4f08
+      --> Understanding super pixel and SLIC
+• Python: Superpixel SLIC algorithm used [Tutorial followed]
+      --> https://www.programmersought.com/article/46534235498/
+• scikit-image package and subpackages documentation  
+      --> https://scikit-image.org/docs/dev/api/skimage.html
+      
 ---------------------------------------------------------------------------------------------------------
 Week 13 – Implementation
 ---------------------------------------------------------------------------------------------------------
