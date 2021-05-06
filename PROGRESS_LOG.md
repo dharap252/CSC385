@@ -79,6 +79,27 @@ and updated using what I learned from the link listed under OPENCV in ```Week 9`
 -------
 ## Week 13 & 14 – Tutorials & Presentation
 
+##### [Other Tutorials and articles](#)
+- [Detailed explanation of SLIC superpixel segmentation (1): Introduction](https://www.programmersought.com/article/34834112462/)
+- ["Digital Image Processing" Learn about Superpixel Super pixel introduction Non-deep learning methods](https://www.programmersought.com/article/31754409864/)
+- [Segmentation: A SLIC Superpixel Tutorial using Python (Super Pixel (Pixel Grid Classification))](https://www.programmersought.com/article/5054518555/)
+- [Super pixel segmentation of image processing](https://www.programmersought.com/article/65176828835/)
+- [(Digital image processing 5.3) SLIC algorithm Super pixel segmentation (unsupervised clustering method) python](https://www.programmersought.com/article/88757591839/)
+
+##### [Libraries and functions to learn more about](#)
+- [Class implementing the LSC (Linear Spectral Clustering) superpixels.](https://docs.opencv.org/3.4/df/d6c/group__ximgproc__superpixel.html)
+```sh
+#include <opencv2/ximgproc/slic.hpp>
+
+Ptr<SuperpixelLSC> cv::ximgproc::createSuperpixelLSC (InputArray image, int region_size = 10, float ratio = 0.075f)		
+
+Python:
+cv.ximgproc.createSuperpixelLSC(image[, region_size[, ratio]]) -> retval
+```
+### ✨Presentation  (April 29) ✓
+
+> NOTE:  Found the following link and C++ implementation [Deep optimization and analysis of the code of the superpixel classic algorithm SLIC.](https://www.programmersought.com/article/1494766613/) and will attempt to implement this in C++ then python later on.
+
 -------
 ## Week 15 – Update Files and Write Review
 
