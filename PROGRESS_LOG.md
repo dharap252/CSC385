@@ -59,7 +59,7 @@ Attempted to move past tutorials and use OpenCV to apply image threashold exampl
 and updated using what I learned from the link listed under OPENCV in ```Week 9```.
 
 -------
-## Week 11 – Watershed algorithm Research
+## Week 11 – Watershed Algorithm Research
 ##### [Followed provided tutorial](#)
 - https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_watershed/py_watershed.html
 ##### [Watershed segmentation](#)
@@ -75,3 +75,11 @@ and updated using what I learned from the link listed under OPENCV in ```Week 9`
 - [Python: Superpixel SLIC algorithm used (Tutorial followed)](https://www.programmersought.com/article/46534235498/)
 - scikit-image package and subpackages documentation  
 --> https://scikit-image.org/docs/dev/api/skimage.html
+
+-------
+## Week 13 & 14 – Tutorials & Presentation
+
+-------
+## Week 15 – Update Files and Write Review
+
+Review.txt
